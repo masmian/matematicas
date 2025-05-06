@@ -13,5 +13,5 @@ Una calculadora simple implementada en JavaScript que permite realizar operacion
 Clona el repositorio:
 
 ```bash
-git clone [https://github.com/tu_usuario/calculadora-js.git](https://github.com/masmian/matematicas.git)
+git clone https://github.com/masmian/matematicas.git
 cd matematicas
